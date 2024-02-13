@@ -1,0 +1,114 @@
+
+.logo1 {
+    display: inline;
+    position: sticky;
+    bottom: 0%;
+    justify-content: left;
+    margin-top: auto;
+    margin-left: 0%;
+    max-width: 30%;
+    max-height: 15%;
+} 
+h3 {
+    color: red;
+    font-family : 'Lora', serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo {
+    
+    min-height: 0%;
+    min-width: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    
+}
+header {
+    position: fixed;
+    display: flex;
+}
+.ola {
+    bottom: 0px;
+    min-width: 100%;
+    min-height: 100%;
+
+}
+.prueba {
+    display:flex;
+    justify-content: center;
+    justify-items: center; 
+    max-width: 100%;
+    max-height: 100%;
+}
+.prueba2 {
+    display:flex;
+    justify-content: center;
+    justify-content: center; 
+    max-width: 100%;
+    max-height: 100%;
+}
+p {
+    font-family : 'Lora', serif;
+    justify-content: center;
+    text-align: center;
+    margin: 15px;
+    color: red;
+}
+ol {
+    color: red;
+}
+.foto1 {
+    display: inline;
+    justify-content: center;
+    max-width: 100vh ;
+    max-height: 100vh;
+    padding: 0%;
+    margin-left: 0 ;
+    margin-right: 0;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    max-width: 70%;
+    align-items: center;
+    
+}
+.subir { 
+    margin-right: 0px;
+    max-width: 20%;
+    padding: 0%;
+    width: 20%;
+    position: fixed;
+    bottom: 0px;
+    right: 05px;
+    border-color: rgb(252, 249, 249);
+}
+    
+.menu {
+    position: fixed;
+    bottom: auto;
+    justify-content: left;
+    background-color: beige;
+}
+footer{
+    display: flex;
+    padding: 1px 0;
+    top: 0;
+    text-decoration: none;
+    background-color: none;
+    
+}
+a{
+text-decoration: none;
+}
+.contacto {
+    display: inline;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 9%;
+    padding-left: 2%;
+    max-width: 11%;
+
+}
